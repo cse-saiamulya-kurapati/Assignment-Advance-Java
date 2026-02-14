@@ -1,0 +1,31 @@
+# Eclipse IDE
+.metadata/
+.project
+.classpath
+.settings/
+
+# Maven / Java build folders
+target/
+bin/
+out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+*.iml
+
+# Local DB files (Hibernate/H2)
+*.db
+*.mv.db
+*.trace.db
